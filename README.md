@@ -2,7 +2,8 @@
 - 🐧 Arch, Fedora, Ubuntu
 - 👾 My hobby is working on a computer and making some of them and programing 
 - 🎂 Birthday: 12.08
-![image](https://github.com/RomFishy/RomFishy/assets/106806717/5c3bbd24-74b0-4a40-8521-5fb7837c8e96)
+![37a2104ab623f2c68820686b2fb593d7-removebg-preview](https://github.com/RomFishy/RomFishy/assets/106806717/fafaac29-d56b-4370-bc5b-035632e3f892)
+
 
 
 <!---

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RomFishy</h1>
 <h3 align="center">Master of Linux</h3>
-<img align="right" alt="tux" width="400" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif">
+<img align="right" alt="tux" width="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romfishy&label=Profile%20views&color=0e75b6&style=flat" alt="romfishy" /> </p>
 

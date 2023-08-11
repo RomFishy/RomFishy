@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I want buy flipper zero**
 
-- 📄 Know about my experiences **Arch Fedora Ubuntu**
+- 📄 Know about my experiences **Arch Fedora Ubuntu Kali Phising Remote system administration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
